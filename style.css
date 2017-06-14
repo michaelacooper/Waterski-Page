@@ -1,0 +1,44 @@
+/* comments in css  */
+
+/*basic css format
+selector {
+rule: value;
+}
+*/
+.wrapper {
+  width: 800px;
+  margin: auto;
+}
+
+img {
+  align-items: center;
+  width: 100%;
+}
+
+body {
+  background-color: #EFF8F8;
+  font-family: 'Lora', serif;
+}
+
+header {
+  color: navy;
+  font-weight: bold;
+  font-size: 35px;
+  text-align: center;
+}
+
+h1 {
+  margin: 0;
+}
+
+h2 {
+  color: green;
+}
+
+footer {
+  font-size: 15px;
+}
+
+ul {
+  font-weight: bold;
+}
