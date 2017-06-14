@@ -28,11 +28,14 @@ header {
 }
 
 h1 {
-  margin: 0;
+  margin: 2vh;
+  font-size: 2em;
 }
 
 h2 {
   color: green;
+  margin: 1vh 0;
+  font-size: 1.5em;
 }
 
 footer {
@@ -41,4 +44,23 @@ footer {
 
 ul {
   font-weight: bold;
+  margin: 1vh 1.18vw;
+}
+
+p {
+  margin: 1.5vh 0;
+
+}
+
+a {
+  text-decoration: none;
+  color: hsl(240, 40%, 50%);
+}
+
+a:visited {
+  color: hsl(240, 40%, 50%)
+}
+
+.soda {
+  margin: 1.5vh 0;
 }
